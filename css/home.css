@@ -128,10 +128,12 @@ h3 a:hover {
 .art-me {
     display: none;
     height: 350px;
+    width: auto;
 }
 
 .art-me img {
     height: 100%;
+    width: 100%;
 }
 
 @media only screen and (min-width: 768px) {
