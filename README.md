@@ -35,7 +35,6 @@ This is the source code for my personal website - a developer and photographer p
 
 <img alt="Font Example Screenshot" src="./img/readme/fire-code.png">
 
-
 [Nunito](https://fonts.google.com/specimen/Nunito) - normal text
 
 <img alt="Font Example Screenshot" src="./img/readme/nunito.png">
@@ -53,7 +52,7 @@ This is the source code for my personal website - a developer and photographer p
 
 ### Icon
 
-This is the icon of me in [jiten.xyz/about](https://jiten.xyz/about)
+This is the icon of me in [jiten.xyz/about](https://jitenadk.me/about)
 
 _Art credits to my friend [Steph](https://www.instagram.com/wynn.draws/)._
 
@@ -77,13 +76,13 @@ I made a mix of low and high fidelity wireframes for the pages of my website. Th
 
 ## Built With
 
--  [HTML5](https://www.w3schools.com/html/)
--  [CSS3](https://www.w3schools.com/css/)
--  [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
--  [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
--  [Google Domains](https://domains.google/) for the cool domain
--  [Netlify](https://www.netlify.com/) for hosting
--  [Figma](https://www.figma.com/) for design and prototyping tools
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+- [Flaticon](https://www.flaticon.com/) and [FontAwesome](https://fontawesome.com/v5.15/icons?d=gallery&p=1) for the icons
+- [Google Domains](https://domains.google/) for the cool domain
+- [Netlify](https://www.netlify.com/) for hosting
+- [Figma](https://www.figma.com/) for design and prototyping tools
 
 ---
 
